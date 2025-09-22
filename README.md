@@ -80,7 +80,7 @@ SPEAK (Sexual Protection and Awareness Keeper) is a web and mobile application f
 
 <p align="center">
 <a href="https://github.com/salshabylaa">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salshabylaa&theme=vue-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salshabylaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 </div>
